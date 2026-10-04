@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yoboykaedin-commits/Murder-mystery-2-script/9265873f1a6f600e37880b43323ebd5c70acdf7f/Mm2.lua"))()
